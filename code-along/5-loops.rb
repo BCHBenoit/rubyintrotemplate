@@ -8,4 +8,10 @@
 # end
 
 # Loop through tacos
-# tacos = ["carnitas", "carne asada", "pollo", "pescado"]
+tacos = ["carnitas", "carne asada", "pollo", "pescado"]
+
+elementos_tacos = 0
+
+for elementos_tacos in tacos
+        puts "Eat #{elementos_tacos} tacos!"
+end
