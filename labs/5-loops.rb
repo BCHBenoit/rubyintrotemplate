@@ -20,25 +20,25 @@ spades = [2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"]
 # Ace of Spades
 
 
-elemento_clubs = 0
-for elemento_clubs in clubs
-    puts "#{elemento_clubs} of clubs"
-end
+# elemento_clubs = 0
+# for elemento_clubs in clubs
+#     puts "#{elemento_clubs} of clubs"
+# end
 
-elemento_diamonds = 0
-for elemento_diamonds in diamonds
-    puts "#{elemento_diamonds} of diamonds"
-end
+# elemento_diamonds = 0
+# for elemento_diamonds in diamonds
+#     puts "#{elemento_diamonds} of diamonds"
+# end
 
-elemento_hearts = 0
-for elemento_hearts in hearts
-    puts "#{elemento_hearts} of hearts"
-end
+# elemento_hearts = 0
+# for elemento_hearts in hearts
+#     puts "#{elemento_hearts} of hearts"
+# end
 
-elemento_spades = 0
-for elemento_spades in spades
-    puts "#{elemento_spades} of spades"
-end
+# elemento_spades = 0
+# for elemento_spades in spades
+#     puts "#{elemento_spades} of spades"
+# end
 
 # CHALLENGE #1
 # The arrays are identical for each suit and can be simplified by using
