@@ -15,3 +15,13 @@
 # rand(1..6)
 # Log output to the screen with puts:
 # puts "Hello, world"
+
+#Define the 2 variables
+dice1 = rand(1..6)
+dice2 = rand(1..6)
+total = dice1 + dice2
+
+#Print on screen
+puts "Dice 1 result: #{dice1}"
+puts "Dice 2 result #{dice2}"
+puts "the sum of the dice is #{total}"
